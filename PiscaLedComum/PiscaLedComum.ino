@@ -1,5 +1,5 @@
 // Estudo de Arduino UNO R3 - Projeto Pisca LED comum - Autor: Thiago Costa Pereira - Email: thiago.devpython@gmail.com
-
+// Link do YOUTUBE para parte visual do projeto: https://youtu.be/MPV-M4TLvv0
 
 void setup() {
   pinMode(9, OUTPUT); // Declarando o Pino 9 digital como saída
